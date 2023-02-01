@@ -1,6 +1,4 @@
-# Todo App built in MEAN Stack
-
-# SoftUiDashboard
+# Task Management App using MEAN Stack
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
 
